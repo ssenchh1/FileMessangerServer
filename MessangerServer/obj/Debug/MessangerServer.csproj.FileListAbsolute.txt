@@ -1,0 +1,7 @@
+C:\Users\ssenchh\source\repos\MessangerServer\MessangerServer\bin\Debug\MessangerServer.exe.config
+C:\Users\ssenchh\source\repos\MessangerServer\MessangerServer\bin\Debug\MessangerServer.exe
+C:\Users\ssenchh\source\repos\MessangerServer\MessangerServer\bin\Debug\MessangerServer.pdb
+C:\Users\ssenchh\source\repos\MessangerServer\MessangerServer\obj\Debug\MessangerServer.csprojAssemblyReference.cache
+C:\Users\ssenchh\source\repos\MessangerServer\MessangerServer\obj\Debug\MessangerServer.csproj.CoreCompileInputs.cache
+C:\Users\ssenchh\source\repos\MessangerServer\MessangerServer\obj\Debug\MessangerServer.exe
+C:\Users\ssenchh\source\repos\MessangerServer\MessangerServer\obj\Debug\MessangerServer.pdb
